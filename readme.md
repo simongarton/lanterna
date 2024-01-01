@@ -3,7 +3,7 @@
 Simple encapsulation of the Google Lanternal text terminal, just a quick way of adding image functionality to
 anything.
 
-https://code.google.com/archive/p/lanterna/
+https://code.google.com/archive/p/lanterna/  
 https://github.com/mabe02/lanterna
 
 ```
